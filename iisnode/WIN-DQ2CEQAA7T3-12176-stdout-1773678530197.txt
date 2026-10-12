@@ -1,0 +1,2 @@
+[dotenv@17.2.2] injecting env (9) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+Server running on port \\.\pipe\61c5ecc1-19e0-4966-88a9-bd931fa2a1df

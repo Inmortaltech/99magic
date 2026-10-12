@@ -1,0 +1,2 @@
+[dotenv@17.2.2] injecting env (9) from .env -- tip: 📡 auto-backup env with Radar: https://dotenvx.com/radar
+Server running on port \\.\pipe\d62fa290-9436-4b17-92f1-132ea42f50f1

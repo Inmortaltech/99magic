@@ -1,0 +1,2 @@
+[dotenv@17.2.2] injecting env (9) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+Server running on port \\.\pipe\8a17588d-4e58-4de4-86ac-f0d850333cf1

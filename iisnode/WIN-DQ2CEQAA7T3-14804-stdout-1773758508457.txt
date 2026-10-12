@@ -1,0 +1,2 @@
+[dotenv@17.2.2] injecting env (9) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+Server running on port \\.\pipe\7987cb58-ceab-4fd0-98aa-b6be473e8e11

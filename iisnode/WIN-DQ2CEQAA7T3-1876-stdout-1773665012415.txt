@@ -1,0 +1,2 @@
+[dotenv@17.2.2] injecting env (9) from .env -- tip: 📡 observe env with Radar: https://dotenvx.com/radar
+Server running on port \\.\pipe\13fae9ef-08c5-4762-83cf-f35045bf7089
